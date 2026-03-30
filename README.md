@@ -60,7 +60,7 @@ Dựa trên mã nguồn `ai_server.py`, hệ thống hoạt động với kiến
 5. Cắm cáp và nhấn nút **Upload** nạp chương trình vào mạch ESP32.
 
 ## 🤝 Đóng góp
-Dự án được thực hiện với các mục tiêu giáo dục và hỗ trợ cộng đồng. Mọi ý kiến đóng góp, báo lỗi cũng như Pull Requests đều được hoan nghênh nồng nhiệt! Trang thái kết nối và Ping của ESP32 có thể xem realtime trực tiếp trên màn hình camera hiển thị của Server.
+Dự án được thực hiện với các mục tiêu giáo dục và hỗ trợ cộng đồng. Mọi ý kiến đóng góp, báo lỗi đều được hoan nghênh nồng nhiệt! Trang thái kết nối và Ping của ESP32 có thể xem realtime trực tiếp trên màn hình camera hiển thị của Server.
 
 ---
-*Dự án phát triển bởi nhóm tác giả @LEHAu1.*
+*Dự án phát triển bởi tác giả @LEHAu11*
